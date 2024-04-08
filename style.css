@@ -1,0 +1,22 @@
+*{
+    margin: 50;
+    padding: 0;
+}
+
+.cabeçalho{
+    background-color:rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 0;
+}
+
+.imagem{
+    width:20%;
+}
+
+.item{
+      display: inline-block; 
+      margin: 0 30px;
+      padding: 23px 0;
+      font-size: 24px;
+    }
